@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\obj\Debug\Trojmian.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\obj\Debug\Trojmian.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\obj\Debug\Trojmian.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\bin\Debug\Trojmian.exe.config
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\bin\Debug\Trojmian.exe
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\bin\Debug\Trojmian.pdb
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\obj\Debug\Trojmian.exe
+C:\Users\Student\Desktop\Opalinski\Z1\Trojmian\obj\Debug\Trojmian.pdb
+C:\Users\filip\Downloads\Trojmian\Trojmian\bin\Debug\Trojmian.exe.config
+C:\Users\filip\Downloads\Trojmian\Trojmian\bin\Debug\Trojmian.exe
+C:\Users\filip\Downloads\Trojmian\Trojmian\bin\Debug\Trojmian.pdb
+C:\Users\filip\Downloads\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.AssemblyReference.cache
+C:\Users\filip\Downloads\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Downloads\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.CoreCompileInputs.cache
+C:\Users\filip\Downloads\Trojmian\Trojmian\obj\Debug\Trojmian.exe
+C:\Users\filip\Downloads\Trojmian\Trojmian\obj\Debug\Trojmian.pdb
